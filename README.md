@@ -1,8 +1,8 @@
 # Book-of-admin-tips
-quick book of common issues in the sys admin world.
+quick book of common fixes in the sys admin world.
 
 
-1. turn it off and back on<br>
+1. turn it off and back on (windows and mac)<br>
 2. its DNS<br>
 3. its a firewall issue<br>
 4. its SElinux<br>
